@@ -1,0 +1,254 @@
+,Filename,actual,Predicted
+0,Y1.jpg,Tumorous,Tumorous
+1,Y10.jpg,Tumorous,Tumorous
+2,Y100.JPG,Tumorous,Tumorous
+3,Y101.jpg,Tumorous,Tumorous
+4,Y102.jpg,Tumorous,Tumorous
+5,Y103.jpg,Tumorous,Tumorous
+6,Y104.jpg,Tumorous,Tumorous
+7,Y105.jpg,Tumorous,Tumorous
+8,Y106.jpg,Tumorous,Tumorous
+9,Y107.jpg,Tumorous,Tumorous
+10,Y108.jpg,Tumorous,Tumorous
+11,Y109.JPG,Tumorous,Tumorous
+12,Y11.jpg,Tumorous,Tumorous
+13,Y111.JPG,Tumorous,Tumorous
+14,Y112.JPG,Tumorous,Tumorous
+15,Y113.JPG,Tumorous,Tumorous
+16,Y114.JPG,Tumorous,Tumorous
+17,Y115.JPG,Tumorous,Tumorous
+18,Y116.JPG,Tumorous,Tumorous
+19,Y117.JPG,Tumorous,Tumorous
+20,Y12.jpg,Tumorous,Tumorous
+21,Y120.JPG,Tumorous,Tumorous
+22,Y13.jpg,Tumorous,Tumorous
+23,Y14.jpg,Tumorous,Tumorous
+24,Y146.JPG,Tumorous,Tumorous
+25,Y147.JPG,Tumorous,Tumorous
+26,Y148.JPG,Tumorous,Tumorous
+27,Y15.jpg,Tumorous,Tumorous
+28,Y153.jpg,Tumorous,Tumorous
+29,Y154.jpg,Tumorous,Tumorous
+30,Y155.JPG,Tumorous,Tumorous
+31,Y156.JPG,Tumorous,Tumorous
+32,Y157.JPG,Tumorous,Tumorous
+33,Y158.JPG,Tumorous,Tumorous
+34,Y159.JPG,Tumorous,Tumorous
+35,Y16.JPG,Tumorous,Tumorous
+36,Y160.JPG,Tumorous,Tumorous
+37,Y161.JPG,Tumorous,Tumorous
+38,Y162.jpg,Tumorous,Tumorous
+39,Y163.JPG,Tumorous,Tumorous
+40,Y164.JPG,Tumorous,Tumorous
+41,Y165.JPG,Tumorous,Tumorous
+42,Y166.JPG,Tumorous,Tumorous
+43,Y167.JPG,Tumorous,Tumorous
+44,Y168.jpg,Tumorous,Tumorous
+45,Y169.jpg,Tumorous,Tumorous
+46,Y17.jpg,Tumorous,Tumorous
+47,Y170.JPG,Tumorous,Tumorous
+48,Y18.JPG,Tumorous,Tumorous
+49,Y180.jpg,Tumorous,Tumorous
+50,Y181.jpg,Tumorous,Tumorous
+51,Y182.JPG,Tumorous,Tumorous
+52,Y183.jpg,Tumorous,Tumorous
+53,Y184.JPG,Tumorous,Tumorous
+54,Y185.jpg,Tumorous,Tumorous
+55,Y186.jpg,Tumorous,Tumorous
+56,Y187.jpg,Tumorous,Tumorous
+57,Y188.jpg,Tumorous,Tumorous
+58,Y19.JPG,Tumorous,Tumorous
+59,Y192.JPG,Tumorous,Tumorous
+60,Y193.JPG,Tumorous,Tumorous
+61,Y194.jpg,Tumorous,Tumorous
+62,Y195.JPG,Tumorous,Tumorous
+63,Y2.jpg,Tumorous,Tumorous
+64,Y20.jpg,Tumorous,Tumorous
+65,Y21.jpg,Tumorous,Tumorous
+66,Y22.jpg,Tumorous,Tumorous
+67,Y23.JPG,Tumorous,Tumorous
+68,Y24.jpg,Tumorous,Tumorous
+69,Y242.JPG,Tumorous,Tumorous
+70,Y243.JPG,Tumorous,Tumorous
+71,Y244.JPG,Tumorous,Tumorous
+72,Y245.jpg,Tumorous,Tumorous
+73,Y246.JPG,Tumorous,Tumorous
+74,Y247.JPG,Tumorous,Tumorous
+75,Y248.JPG,Tumorous,Tumorous
+76,Y249.JPG,Tumorous,Tumorous
+77,Y25.jpg,Tumorous,Tumorous
+78,Y250.jpg,Tumorous,Tumorous
+79,Y251.JPG,Tumorous,Tumorous
+80,Y252.jpg,Tumorous,Tumorous
+81,Y253.JPG,Tumorous,Tumorous
+82,Y254.jpg,Tumorous,Tumorous
+83,Y255.JPG,Tumorous,Tumorous
+84,Y256.JPG,Tumorous,Tumorous
+85,Y257.jpg,Tumorous,Tumorous
+86,Y258.JPG,Tumorous,Tumorous
+87,Y259.JPG,Tumorous,Tumorous
+88,Y26.jpg,Tumorous,Tumorous
+89,Y27.jpg,Tumorous,Tumorous
+90,Y28.jpg,Tumorous,Tumorous
+91,Y29.jpg,Tumorous,Tumorous
+92,Y3.jpg,Tumorous,Tumorous
+93,Y30.jpg,Tumorous,Tumorous
+94,Y31.jpg,Tumorous,Tumorous
+95,Y32.jpg,Tumorous,Tumorous
+96,Y33.jpg,Tumorous,Tumorous
+97,Y34.jpg,Tumorous,Tumorous
+98,Y35.jpg,Tumorous,Tumorous
+99,Y36.JPG,Tumorous,Tumorous
+100,Y37.jpg,Tumorous,Tumorous
+101,Y38.jpg,Tumorous,Tumorous
+102,Y39.jpg,Tumorous,Tumorous
+103,Y4.jpg,Tumorous,Tumorous
+104,Y40.JPG,Tumorous,Tumorous
+105,Y41.jpg,Tumorous,Tumorous
+106,Y42.jpg,Tumorous,Tumorous
+107,Y44.JPG,Tumorous,Tumorous
+108,Y45.JPG,Tumorous,Tumorous
+109,Y46.jpg,Tumorous,Tumorous
+110,Y47.JPG,Tumorous,Tumorous
+111,Y49.JPG,Tumorous,Tumorous
+112,Y50.JPG,Tumorous,Tumorous
+113,Y51.jpg,Tumorous,Tumorous
+114,Y52.jpg,Tumorous,Tumorous
+115,Y53.jpg,Tumorous,Tumorous
+116,Y54.jpg,Tumorous,Tumorous
+117,Y55.jpg,Tumorous,Tumorous
+118,Y56.jpg,Tumorous,Tumorous
+119,Y58.JPG,Tumorous,Tumorous
+120,Y59.JPG,Tumorous,Tumorous
+121,Y6.jpg,Tumorous,Tumorous
+122,Y60.jpg,Tumorous,Tumorous
+123,Y61.jpg,Tumorous,Tumorous
+124,Y62.jpg,Tumorous,Tumorous
+125,Y65.JPG,Tumorous,Tumorous
+126,Y66.JPG,Tumorous,Tumorous
+127,Y67.JPG,Tumorous,Tumorous
+128,Y69.jpg,Tumorous,Tumorous
+129,Y7.jpg,Tumorous,Tumorous
+130,Y70.jpg,Tumorous,Tumorous
+131,Y71.JPG,Tumorous,Tumorous
+132,Y73.jpg,Tumorous,Tumorous
+133,Y74.jpg,Tumorous,Tumorous
+134,Y75.JPG,Tumorous,Tumorous
+135,Y76.jpg,Tumorous,Tumorous
+136,Y77.jpg,Tumorous,Tumorous
+137,Y78.jpg,Tumorous,Tumorous
+138,Y79.jpg,Tumorous,Tumorous
+139,Y8.jpg,Tumorous,Tumorous
+140,Y81.jpg,Tumorous,Tumorous
+141,Y82.jpg,Tumorous,Tumorous
+142,Y85.JPG,Tumorous,Tumorous
+143,Y86.JPG,Tumorous,Tumorous
+144,Y89.JPG,Tumorous,Tumorous
+145,Y9.jpg,Tumorous,Tumorous
+146,Y90.jpg,Tumorous,Tumorous
+147,Y91.jpg,Tumorous,Tumorous
+148,Y92.jpg,Tumorous,Tumorous
+149,Y92.png,Tumorous,Tumorous
+150,Y95.jpg,Tumorous,Tumorous
+151,Y96.jpg,Tumorous,Tumorous
+152,Y97.JPG,Tumorous,Tumorous
+153,Y98.JPG,Tumorous,Tumorous
+154,Y99.JPG,Tumorous,Tumorous
+0,1 no.jpeg,Non-Tumorous,Non-Tumorous
+1,10 no.jpg,Non-Tumorous,Non-Tumorous
+2,11 no.jpg,Non-Tumorous,Non-Tumorous
+3,12 no.jpg,Non-Tumorous,Non-Tumorous
+4,13 no.jpg,Non-Tumorous,Non-Tumorous
+5,14 no.jpg,Non-Tumorous,Non-Tumorous
+6,15 no.jpg,Non-Tumorous,Non-Tumorous
+7,17 no.jpg,Non-Tumorous,Non-Tumorous
+8,18 no.jpg,Non-Tumorous,Non-Tumorous
+9,19 no.jpg,Non-Tumorous,Non-Tumorous
+10,2 no.jpeg,Non-Tumorous,Non-Tumorous
+11,20 no.jpg,Non-Tumorous,Non-Tumorous
+12,21 no.jpg,Non-Tumorous,Non-Tumorous
+13,22 no.jpg,Non-Tumorous,Non-Tumorous
+14,23 no.jpg,Non-Tumorous,Non-Tumorous
+15,24 no.jpg,Non-Tumorous,Non-Tumorous
+16,25 no.jpg,Non-Tumorous,Non-Tumorous
+17,26 no.jpg,Non-Tumorous,Non-Tumorous
+18,27 no.jpg,Non-Tumorous,Non-Tumorous
+19,28 no.jpg,Non-Tumorous,Non-Tumorous
+20,29 no.jpg,Non-Tumorous,Non-Tumorous
+21,3 no.jpg,Non-Tumorous,Non-Tumorous
+22,30 no.jpg,Non-Tumorous,Non-Tumorous
+23,31 no.jpg,Non-Tumorous,Non-Tumorous
+24,32 no.jpg,Non-Tumorous,Non-Tumorous
+25,33 no.jpg,Non-Tumorous,Non-Tumorous
+26,34 no.jpg,Non-Tumorous,Non-Tumorous
+27,35 no.jpg,Non-Tumorous,Non-Tumorous
+28,36 no.jpg,Non-Tumorous,Non-Tumorous
+29,37 no.jpg,Non-Tumorous,Non-Tumorous
+30,38 no.jpg,Non-Tumorous,Non-Tumorous
+31,39 no.jpg,Non-Tumorous,Non-Tumorous
+32,4 no.jpg,Non-Tumorous,Non-Tumorous
+33,40 no.jpg,Non-Tumorous,Non-Tumorous
+34,41 no.jpg,Non-Tumorous,Non-Tumorous
+35,42 no.jpg,Non-Tumorous,Non-Tumorous
+36,43 no.jpg,Non-Tumorous,Non-Tumorous
+37,44no.jpg,Non-Tumorous,Non-Tumorous
+38,45 no.jpg,Non-Tumorous,Non-Tumorous
+39,46 no.jpg,Non-Tumorous,Non-Tumorous
+40,47 no.jpg,Non-Tumorous,Non-Tumorous
+41,48 no.jpeg,Non-Tumorous,Non-Tumorous
+42,49 no.jpg,Non-Tumorous,Non-Tumorous
+43,5 no.jpg,Non-Tumorous,Non-Tumorous
+44,50 no.jpg,Non-Tumorous,Non-Tumorous
+45,6 no.jpg,Non-Tumorous,Non-Tumorous
+46,7 no.jpg,Non-Tumorous,Non-Tumorous
+47,8 no.jpg,Non-Tumorous,Non-Tumorous
+48,9 no.jpg,Non-Tumorous,Non-Tumorous
+49,N1.JPG,Non-Tumorous,Non-Tumorous
+50,N11.jpg,Non-Tumorous,Non-Tumorous
+51,N15.jpg,Non-Tumorous,Non-Tumorous
+52,N16.jpg,Non-Tumorous,Non-Tumorous
+53,N17.jpg,Non-Tumorous,Non-Tumorous
+54,N19.JPG,Non-Tumorous,Non-Tumorous
+55,N2.JPG,Non-Tumorous,Non-Tumorous
+56,N20.JPG,Non-Tumorous,Non-Tumorous
+57,N21.jpg,Non-Tumorous,Non-Tumorous
+58,N22.JPG,Non-Tumorous,Non-Tumorous
+59,N26.JPG,Non-Tumorous,Non-Tumorous
+60,N3.jpg,Non-Tumorous,Non-Tumorous
+61,N5.jpg,Non-Tumorous,Non-Tumorous
+62,N6.jpg,Non-Tumorous,Non-Tumorous
+63,no 1.jpg,Non-Tumorous,Non-Tumorous
+64,no 10.jpg,Non-Tumorous,Non-Tumorous
+65,no 100.jpg,Non-Tumorous,Non-Tumorous
+66,no 2.jpg,Non-Tumorous,Non-Tumorous
+67,no 3.jpg,Non-Tumorous,Non-Tumorous
+68,no 4.jpg,Non-Tumorous,Non-Tumorous
+69,no 5.jpeg,Non-Tumorous,Non-Tumorous
+70,no 6.jpg,Non-Tumorous,Non-Tumorous
+71,no 7.jpeg,Non-Tumorous,Non-Tumorous
+72,no 8.jpg,Non-Tumorous,Non-Tumorous
+73,no 89.jpg,Non-Tumorous,Non-Tumorous
+74,no 9.png,Non-Tumorous,Non-Tumorous
+75,no 90.jpg,Non-Tumorous,Non-Tumorous
+76,no 91.jpeg,Non-Tumorous,Non-Tumorous
+77,no 92.jpg,Non-Tumorous,Non-Tumorous
+78,no 923.jpg,Non-Tumorous,Non-Tumorous
+79,no 94.jpg,Non-Tumorous,Non-Tumorous
+80,no 95.jpg,Non-Tumorous,Non-Tumorous
+81,no 96.jpg,Non-Tumorous,Non-Tumorous
+82,no 97.jpg,Non-Tumorous,Non-Tumorous
+83,no 98.jpg,Non-Tumorous,Non-Tumorous
+84,no 99.jpg,Non-Tumorous,Non-Tumorous
+85,no.jpg,Non-Tumorous,Non-Tumorous
+86,No11.jpg,Non-Tumorous,Non-Tumorous
+87,No12.jpg,Non-Tumorous,Non-Tumorous
+88,No13.jpg,Non-Tumorous,Non-Tumorous
+89,No14.jpg,Non-Tumorous,Non-Tumorous
+90,No15.jpg,Non-Tumorous,Non-Tumorous
+91,No16.jpg,Non-Tumorous,Non-Tumorous
+92,No17.jpg,Non-Tumorous,Non-Tumorous
+93,No18.jpg,Non-Tumorous,Non-Tumorous
+94,No19.jpg,Non-Tumorous,Non-Tumorous
+95,No20.jpg,Non-Tumorous,Non-Tumorous
+96,No21.jpg,Non-Tumorous,Non-Tumorous
+97,No22.jpg,Non-Tumorous,Non-Tumorous
